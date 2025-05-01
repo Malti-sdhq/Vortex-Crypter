@@ -1,29 +1,48 @@
-# Vortex-Crypter
-The Best Fud Java Crypter ✅
+# Vortex-Crypter 🔐  
+**The Ultimate FUD Java Crypter**  
 
-This Crypter is for Jar files to crypt them,
-the crypter is fud from this date : 2.5.25 and is fully working for everytype of jar files or so
-it has a userfriendly gui and is working fast and easy
-We also have a premium version on sale (https://t.me/Vortexpacker)
+A powerful crypter designed for JAR files, providing seamless encryption with a user-friendly GUI.  
 
-Support *Free* Version :
+✅ **FUD (Fully Undetectable) as of 2.5.25**  
+✅ **Fast & Easy to Use**  
+✅ **Works with all types of JAR files**  
 
-✅ Jar Files 
-✅ Open Source
-❌ Android Support 
-❌ AntiVm
-❌ Extra Encryption etc
-❌ 24/7 No guarantee on FUD Stub
-❌ customizable stub
+---
 
-Support *Paid* Version :
+## 📌 Free Version Features  
 
-✅ Jar Files 
-❌ Open Source
-❌ Android Support 
-✅ AntiVm
-✅ Extra Encryption etc
-✅ 24/7 No guarantee on FUD Stub
-✅ customizable stub
+| Feature               | Status |
+|-----------------------|--------|
+| JAR File Support      | ✅     |
+| Open Source           | ✅     |
+| Android Support       | ❌     |
+| Anti-VM               | ❌     |
+| Extra Encryption      | ❌     |
+| 24/7 FUD Guarantee    | ❌     |
+| Customizable Stub     | ❌     |
 
-Buy Now At https://t.me/Vortexpacker Or use the free alternative
+---
+
+## 💎 Premium Version Features  
+
+| Feature               | Status |
+|-----------------------|--------|
+| JAR File Support      | ✅     |
+| Open Source           | ❌     |
+| Android Support       | ❌     |
+| **Anti-VM**           | ✅     |
+| **Extra Encryption**  | ✅     |
+| **24/7 Support**      | ✅     |
+| **Customizable Stub** | ✅     |
+
+---
+
+## 🔗 Get the Premium Version  
+Upgrade for enhanced security and features!  
+
+📩 **Contact Us:** [https://t.me/Vortexpacker](https://t.me/Vortexpacker)  
+
+---
+
+### 🆓 Free Alternative  
+The open-source version is available for basic use. Contributions are welcome!  
