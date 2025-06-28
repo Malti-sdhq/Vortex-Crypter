@@ -29,7 +29,7 @@ A powerful crypter designed for JAR files, providing seamless encryption with a 
 |-----------------------|--------|
 | JAR File Support      | ✅     |
 | Open Source           | ❌     |
-| Android Support       | ❌     |
+| Android Support       | ✅     |
 | **Anti-VM**           | ✅     |
 | **Extra Encryption**  | ✅     |
 | **24/7 Support**      | ✅     |
